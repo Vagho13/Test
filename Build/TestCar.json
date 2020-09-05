@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Test",
+"companyName": "Unity Technologies",
+"productName": "AngryBots",
 "productVersion": "1.0",
 "dataUrl": "TestCar.data.unityweb",
 "wasmCodeUrl": "TestCar.wasm.code.unityweb",
