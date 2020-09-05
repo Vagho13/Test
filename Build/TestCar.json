@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "RoomTest",
+"productName": "Test",
 "productVersion": "0.1",
 "dataUrl": "TestCar.data.unityweb",
 "wasmCodeUrl": "TestCar.wasm.code.unityweb",
@@ -9,6 +9,7 @@
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
 "unityVersion": "2019.4.9f1"
